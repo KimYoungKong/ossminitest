@@ -49,7 +49,7 @@ void saveData(Product p[], int count)
 }
 
 
-//파일에서
+//파일에서re 
 int loadData(Product *p){
     int count = 0, i = 0;
     FILE *fp;
